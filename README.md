@@ -16,3 +16,6 @@ If you use our implementation in your academic work, please cite the correspondi
 		eprint = {2201.04501},
 		url = {http://arxiv.org/pdf/2201.04501},
 		}
+		
+## License
+This project is free software made available under the MIT License. For details see the LICENSE file.
