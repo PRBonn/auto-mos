@@ -1,0 +1,14 @@
+# Configuration for auto-mos tracking
+# --------------------------------------------------------------------
+
+# data sequence
+seq: 04
+
+# dataset root folder
+dataset_root: 'data/kitti'
+
+# instance_pred_folder
+instance_root: 'results/instances'
+
+# mos_results_folder
+prediction_root: 'results/mos_predictions'
